@@ -1,2 +1,17 @@
-# AI-Prompt-Library
-A curated collection of AI prompts for developers and creators. From code optimization to 3D printing, streamline your workflow with these ready-to-use examples. Une collection organisée de prompts IA pour développeurs et créateurs. De l’optimisation de code à l’impression 3D, simplifiez votre flux de travail avec ces exemples prêts à l’emploi.
+# AI Prompt Library
+### (Français ci-dessous)
+
+## Overview
+This repository provides a curated collection of AI prompts designed for developers, creators, and professionals. Each prompt is crafted to address specific tasks, such as code optimization, 3D printing workflows, and image restoration.
+
+## Features
+- **Code Optimization**: PHP 8.1+, MySQL security, SaaS performance improvements.
+- **Creative Prompts**: Enhance image quality, generate 3D printing designs, etc.
+- **Organized by Theme**: Find what you need quickly.
+- **Shareable and Reusable**: Improve collaboration and efficiency.
+
+## Example Prompts
+```markdown
+I want to optimize the code of my SaaS application. 
+1. Provide a modernized, secure, and readable version of the code.
+2. List the techniques used (e.g., "Ternary operator, prepared SQL statements").
